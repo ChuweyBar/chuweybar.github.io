@@ -2,26 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Chuwei&#39;s Homepage</title>
-    <link>http://localhost:1313/</link>
+    <link>https://chuweybar.github.io/</link>
     <description>Recent content on Chuwei&#39;s Homepage</description>
     <generator>Hugo</generator>
     <language>en</language>
     <copyright>&amp;copy; 2025 Congo contributors</copyright>
-    <lastBuildDate>Sat, 01 Mar 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>I Love Robotics, And I Blame A Bunch of Highschoolers</title>
-      <link>http://localhost:1313/projects/frc_mech_designs/</link>
-      <pubDate>Sat, 01 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/projects/frc_mech_designs/</guid>
-      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;A good competitor knows to memorize and follow all rules of the competition.&#xA;A great competitor dedicates unfathomable amount of their energy to get ahead by finding loopholes in the rules.&lt;/p&gt;&lt;/blockquote&gt;</description>
-    </item>
-    <item>
-      <title>Markdown</title>
-      <link>http://localhost:1313/projects/first_post/</link>
-      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/projects/first_post/</guid>
-      <description>&lt;p&gt;This article offers a sample of basic Markdown formatting that can be used in Congo, also it shows how some basic HTML elements are decorated.&lt;/p&gt;</description>
-    </item>
+    <lastBuildDate></lastBuildDate>
+    <atom:link href="https://chuweybar.github.io/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
